@@ -7,3 +7,6 @@
 .gaming {
     width: 600px;
 }
+.nav {
+    display: flex;
+}

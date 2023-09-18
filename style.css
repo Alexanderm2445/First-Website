@@ -10,3 +10,15 @@
 .nav {
     display: flex;
 }
+.lel {
+    position: relative;
+    width: 180px;
+    height: 140px;
+    margin: auto;
+    z-index: -1;
+    border: 5px solid lightgray;
+}
+
+.giant {
+    display: flex;
+}

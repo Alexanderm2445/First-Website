@@ -44,7 +44,7 @@
     margin-top: -460px;
 }
 .margin {
-    margin-top: -250px;
+    margin-top: -750px;
 }
 .somethingserious {
  width: 100%;
@@ -62,4 +62,8 @@
  background-position: center;
  z-index: -1;
 
+}
+
+.sus {
+    font-size: 100 px;
 }

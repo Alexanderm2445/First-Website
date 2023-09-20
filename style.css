@@ -17,11 +17,32 @@
     margin: auto;
     z-index: -1;
     border: 5px solid lightgray;
+    z-index: 5;
 }
 
 .giant {
     display: flex;
+    margin-right: 500px;
+    margin-left: 500px;
 }
 .amogus {
     width: 90px;
+}
+.hadzdbd {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://cdn.wallpapersafari.com/4/76/RdCNuU.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.lauren {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -460px;
+}
+.margin {
+    margin-top: -250px;
 }

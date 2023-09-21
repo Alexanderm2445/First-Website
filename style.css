@@ -42,7 +42,9 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin-top: -380px;
+    margin-top: -450px;
+    position: relative;
+    left: 100px
 }
 .margin {
     margin-top: -500px;
@@ -57,8 +59,8 @@
  z-index: -1;
 }
 .nightfall {
- width: 105%;
- height: 130vh;
+ width: 110%;
+ height: 140vh;
  background-image: url(https://pub-static.fotor.com/assets/bg/91943916-cf00-4529-8ed4-3e47304cea73.jpg);
  background-size: cover;
  background-position: center;
@@ -85,4 +87,8 @@
     width: 526px;
     position: relative;
     left: 37px;
+}
+
+.suit {
+    width: 526px;
 }

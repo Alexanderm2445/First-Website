@@ -71,6 +71,10 @@
 .redd {
     color:red;
 }
-.see {
-    text-indent: 50px;
+.tommy {
+    display: flex;
+}
+.fnaf {
+    position: relative;
+    left: 100px;
 }

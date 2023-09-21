@@ -22,16 +22,16 @@
 
 .giant {
     display: flex;
-    margin-right: 500px;
-    margin-left: 500px;
+    margin-right: 300px;
+    margin-left: 300px;
 }
 .amogus {
     width: 90px;
 }
 .hadzdbd {
     width: 100%;
-    height: 100vh;
-    background-image: url(https://cdn.wallpapersafari.com/4/76/RdCNuU.jpg);
+    height: 112vh;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v996-009_1-kroir4dk.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=dcb55d36929676d81bb5f66b7e091fe8);
     background-size: cover;
     background-position: center;
     z-index: -1;
@@ -41,14 +41,14 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin-top: -460px;
+    margin-top: -380px;
 }
 .margin {
-    margin-top: -750px;
+    margin-top: -500px;
 }
 .somethingserious {
  width: 100%;
- height: 100vh;
+ height: 125vh;
  background-image: url(https://i.pinimg.com/originals/85/6f/31/856f31d9f475501c7552c97dbe727319.jpg);
  background-size: cover;
  background-position: center;
@@ -66,4 +66,11 @@
 
 .sus {
     font-size: 100 px;
+}
+
+.redd {
+    color:red;
+}
+.see {
+    text-indent: 50px;
 }
